@@ -19,14 +19,14 @@ This project explores the possibility of predicting blood groups from fingerprin
 
 🛠️ Technologies Used
 
-• Python
-• TensorFlow
-• OpenCV
-• NumPy
-• Pandas
-• Matplotlib
-• Scikit-learn
-• Flask (if used for deployment)
+Python 
+TensorFlow 
+OpenCV 
+NumPy 
+Pandas 
+Matplotlib 
+Scikit-learn 
+Flask (if used for deployment)
 
 📂 Project Structure
 
@@ -64,14 +64,14 @@ The model is trained using a fingerprint image dataset labeled with blood groups
 
 Possible blood group classes:
 
-A+
-A-
-B+
-B-
-AB+
-AB-
-O+
-O-
+A+ 
+A- 
+B+ 
+B- 
+AB+ 
+AB- 
+O+ 
+O- 
 
 Note: Dataset quality and size significantly affect prediction accuracy.
 
