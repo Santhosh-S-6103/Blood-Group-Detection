@@ -64,14 +64,14 @@ The model is trained using a fingerprint image dataset labeled with blood groups
 
 Possible blood group classes:
 
-• A+
-• A-
-• B+
-• B-
-• AB+
-• AB-
-• O+
-• O-
+A+
+A-
+B+
+B-
+AB+
+AB-
+O+
+O-
 
 Note: Dataset quality and size significantly affect prediction accuracy.
 
